@@ -2,7 +2,7 @@
 
 ### Olá, Eu sou estudante de Análise e Desenvolvimento de Sistemas 👨‍🎓
 
-## 📚 Atualmente estou estudando
+## 📒 Atualmente estou estudando
 
 #### FrontEnd
 
