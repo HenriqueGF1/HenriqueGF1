@@ -1,9 +1,5 @@
 ## 👨‍💻 Henrique Gonçalves
-
-<br>
-
 ## Análise e Desenvolvimento de Sistemas 👨‍🎓
-
 Sou um apaixonado por video games por isso escolhi essa área e sou um eterno estudante sempre buscando melhorar minhas habilidades por isso sempre procuro me atualizar com a participação em eventos.
 
 No meu tempo livre gosto de jogar video games 🎮, assistir filmes e séries 📺, ouvir música e podcasts 🎶.
@@ -33,8 +29,6 @@ Contatos
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-orange?style=flat-square&logo=Instagram&logoColor=white&link=www.instagram.com/_henriquegf)](https://www.instagram.com/_henriquegf/)
 
 Linguagens e Ferramentas:
-
-
 
 [<img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 
