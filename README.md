@@ -4,11 +4,7 @@
 
 ## Análise e Desenvolvimento de Sistemas 👨‍🎓
 
-<br>
-
 ### Sou um apaixonado por video games por isso escolhi essa área e sou um eterno estudante sempre buscando melhorar minhas habilidades por isso sempre procuro me atualizar com a participação em eventos.
-
-<br>
 
 ### No meu tempo livre gosto de jogar video games 🎮, assistir filmes e séries 📺, ouvir música e podcasts 🎶.
 
@@ -20,49 +16,29 @@
 
 ## 📚 Atualmente estou estudando
 
-<br>
-
 ## FrontEnd
-
-<br>
 
 &nbsp; React js [<img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][webdevplaylist]
 
 &nbsp;📒&nbsp;&nbsp; Ui/UX
 
-<br>
-
 ## BackEnd
-
-<br>
 
 &nbsp; Laravel [<img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png" />][webdevplaylist]
 
-<br>
-
 ## Mobile
-
-<br>
 
 &nbsp; React Native [<img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][webdevplaylist]
 
-<br>
-
-<!-- - 🤣 Teste -->
-
 ## Contatos
-
-<br>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/henrique-gf)](https://www.linkedin.com/in/henrique-gf)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=goncalves.f.henrique@gmail.com)](https://goncalves.f.henrique@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-orange?style=flat-square&logo=Instagram&logoColor=white&link=www.instagram.com/_henriquegf)](https://www.instagram.com/_henriquegf/)
 
-<br>
-
 ## Linguagens e Ferramentas:
 
-## <br>
+<br>
 
 [<img align="left" alt="" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 
