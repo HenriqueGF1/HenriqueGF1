@@ -2,7 +2,7 @@
 <h1 align="center">E aí, Eu sou o Henrique Gonçalves</h1>  
 
 <p align="left">  
-<a href="https://linkedin.com/in/www.linkedin.com/in/henrique-gf" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
+<a href="https://www.linkedin.com/in/henrique-gf/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
 </p>
 
 Desenvolvedor de software com formação em Análise e Desenvolvimento de Software pela Faculdade Projeção, concluída em 2021. Com uma trajetória de 2 anos de experiência.
