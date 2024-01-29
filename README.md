@@ -3,6 +3,7 @@
 
 <p align="left">  
 <a href="https://www.linkedin.com/in/henrique-gf/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>  
+<a href="mailto: goncalves.f.henrique@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>  
 </p>
 
 Desenvolvedor de software com formação em Análise e Desenvolvimento de Software pela Faculdade Projeção, concluída em 2021. Com uma trajetória de 2 anos de experiência.
@@ -11,7 +12,7 @@ Desenvolvedor de software com formação em Análise e Desenvolvimento de Softwa
 - 💪❤️ Trabalho com   Laravel,PHP,Oracle Sql,JavaScript,Jenkis
 - 🧐📚 Atualmente estou aprendendo   PhpUnit, Design Pattern, VueJs...
 - 📚 💪 Me aprimorando em  Laravel,Php,ReactJS
-- 🥳 ❤️ Meu projeto pessoal  MyPet 
+- 🥳 ❤️ Meu projeto pessoal 🐶 MyPet  [Front-End](https://github.com/HenriqueGF1/MyPet-FrontEnd) [Back-End](https://github.com/HenriqueGF1/MyPet-BackEnd)
   
 <h4 align="left">📄👨‍💻 Minhas experiências </h4>  
 
