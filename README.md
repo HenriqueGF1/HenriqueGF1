@@ -6,7 +6,7 @@
 <a href="mailto: goncalves.f.henrique@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>  
 </p>
 
-Desenvolvedor de software com formação em Análise e Desenvolvimento de Software pela Faculdade Projeção, concluída em 2021. Com uma trajetória de 2 anos de experiência.
+Desenvolvedor de software, com uma trajetória de 2 anos de experiência, com formação em Análise e Desenvolvimento de Software pela Faculdade Projeção, concluída em 2021.
   
 - 💻 Atualmente, estou trabalhando em projetos para o  BRB - Banco de Brasília
 - 💪 Trabalho com   Laravel,PHP,Oracle Sql,JavaScript,Jenkis
