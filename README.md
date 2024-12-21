@@ -6,11 +6,11 @@
 <a href="mailto: goncalves.f.henrique@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>  
 </p>
 
-Desenvolvedor Full Stack, com formação em Análise e Desenvolvimento de Software pela Faculdade Projeção, concluída em 2021, trago uma trajetória de 3 anos de experiência na área da programação.
+Desenvolvedor Full Stack, formado em Análise e Desenvolvimento de Sistemas pela Faculdade Projeção (2021), com 3 anos de experiência na área de desenvolvimento de software. 
 
-Desenvolvedor Full Stack com experiência em PHP, Laravel, JavaScript HTML/CSS, SQL. Atualmente, desenvolvendo um Sistema de Gestão Financeira de Terceirizados para Banco de Brasília (BRB).
+Possuo expertise em PHP, Laravel, JavaScript, HTML/CSS, SQL e Docker. Atualmente, atuo no desenvolvimento de um Sistema de Gestão Financeira de Terceirizados para o Banco de Brasília (BRB). 
 
-Conquistei marcos importantes, como a migração bem-sucedida de PHP 5 para PHP 7, garantindo maior segurança e atualização. Modernizei o código, substituindo jQuery por JavaScript ES6, o que resultou em melhorias significativas na performance e manutenção. Além disso, implementação de deploys utilizando Docker, otimizando a escalabilidade e eficiência dos processos.
+Conquistei marcos importantes, como a migração de sistemas de PHP 5 para PHP 7, garantindo maior segurança e atualização tecnológica. Modernizei o código substituindo jQuery para JavaScript, o que resultou em melhor desempenho e manutenção. Além disso, atualizei o método de deploy para utilizar Docker, otimizando a escalabilidade e a eficiência nos processos de entrega. 
   
 - 💻 Atualmente, estou trabalhando em projetos para o  BRB - Banco de Brasília
 - 💪 Trabalho com   Laravel,PHP,Oracle Sql,JavaScript,Jenkis,Docker
