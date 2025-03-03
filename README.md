@@ -6,14 +6,14 @@
 <a href="mailto: goncalves.f.henrique@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>  
 </p>
 
-Desenvolvedor Full Stack, formado em Análise e Desenvolvimento de Sistemas pela Faculdade Projeção (2021), com 3 anos de experiência na área de desenvolvimento de software. 
+Sou desenvolvedor de software formado em Análise e Desenvolvimento de Sistemas pela Faculdade Projeção, com 3 anos de experiência na área.
 
-Possuo expertise em PHP, Laravel, JavaScript, HTML/CSS, SQL e Docker. Atualmente, atuo no desenvolvimento de um Sistema de Gestão Financeira de Terceirizados para o Banco de Brasília (BRB). 
+No Back-End, tenho expertise em PHP e Laravel, e atualmente estou envolvido no desenvolvimento de um sistema de gestão financeira de despesas para o Banco de Brasília (BRB), com foco em modelagem de banco de dados em Oracle e desenvolvimento em Laravel.
 
-Conquistei marcos importantes, como a migração de sistemas de PHP 5 para PHP 7, garantindo maior segurança e atualização tecnológica. Modernizei o código substituindo jQuery para JavaScript, o que resultou em melhor desempenho e manutenção. Além disso, atualizei o método de deploy para utilizar Docker, otimizando a escalabilidade e a eficiência nos processos de entrega. 
+No Front-End, sou responsável pela criação de interfaces utilizando HTML/CSS, Bootstrap e JavaScript. Uma das minhas conquistas significativas foi a migração de tecnologias legadas, como o Jquery, para o uso de JavaScript moderno com ES6, otimizando o desempenho e a manutenção do código.
   
 - 💻 Atualmente, estou trabalhando em projetos para o  BRB - Banco de Brasília
-- 💪 Trabalho com   Laravel,PHP,Oracle Sql,JavaScript,Jenkis,Docker
+- 💪 Trabalho com   Laravel,PHP,Oracle Sql,JavaScript,Jenkis,Docker,Apis
 - 🧐 Atualmente estou aprendendo   Java, VueJs...
 - 📚 Me aprimorando em  Laravel,Php,ReactJS
 - ❤️ Meu projeto pessoal 🐶 MyPet  [Front-End](https://github.com/HenriqueGF1/MyPet-FrontEnd) [Back-End](https://github.com/HenriqueGF1/MyPet-BackEnd)
