@@ -6,15 +6,15 @@
 <a href="mailto: goncalves.f.henrique@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>  
 </p>
 
-Sou desenvolvedor de software formado em Análise e Desenvolvimento de Sistemas pela Faculdade Projeção, com 3 anos de experiência na área.
+Desenvolvedor de software com formação em Análise e Desenvolvimento de Software pela Faculdade Projeção, concluída em 2021, com uma trajetória de 4 anos de experiência na área de programação e atualmente estudando Computação em Nuvem.
 
-No Back-End, tenho expertise em PHP e Laravel, e atualmente estou envolvido no desenvolvimento de um sistema de gestão financeira de despesas para o Banco de Brasília (BRB), com foco em modelagem de banco de dados em Oracle e desenvolvimento em Laravel.
+No back-end, atuo com PHP (versões 5, 7 e 8) em sistemas legados e novos projetos, com ou sem frameworks, incluindo Laravel (versões 5 e 10). Modelando e utilizando banco de dados Oracle, desenvolvendo APIs REST e gerenciamento de ambientes com Docker. Atualmente, realizo manutenção em sistemas legados, implemento novas funcionalidades em sistemas não legados e contribuo para a evolução do Sistema de Gestão Financeira de Despesas das empresas do conglomerado do Banco de Brasília (BRB).
 
-No Front-End, sou responsável pela criação de interfaces utilizando HTML/CSS, Bootstrap e JavaScript. Uma das minhas conquistas significativas foi a migração de tecnologias legadas, como o Jquery, para o uso de JavaScript moderno com ES6, otimizando o desempenho e a manutenção do código.
+No front-end, sou responsável pela criação de interfaces utilizando HTML/CSS, Bootstrap e JavaScript, além de realizar a transição de tecnologias antigas para modernas, como a adoção do ES6 do JavaScript em substituição ao uso de jQuery em códigos legados.
   
 - 💻 Atualmente, estou trabalhando em projetos para o  BRB - Banco de Brasília
 - 💪 Trabalho com   Laravel,PHP,Oracle Sql,JavaScript,Jenkis,Docker,Apis
-- 🧐 Atualmente estou aprendendo   Java, VueJs...
+- 🧐 Atualmente estou aprendendo   VueJs,Computação em Nuvem....
 - 📚 Me aprimorando em  Laravel,Php,ReactJS
 - ❤️ Meu projeto pessoal 🐶 MyPet  [Front-End](https://github.com/HenriqueGF1/MyPet-FrontEnd) [Back-End](https://github.com/HenriqueGF1/MyPet-BackEnd)
   
